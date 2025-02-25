@@ -1,0 +1,8 @@
+version: 0.1
+
+endpoints:
+  - name: "RestAPI"
+    port: 8080
+    type: REST
+    networkVisibility: PUBLIC
+    context: /
