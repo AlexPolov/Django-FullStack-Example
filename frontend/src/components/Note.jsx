@@ -16,4 +16,4 @@ function Note({ note, onDelete }) {
     );
 }
 
-export default Note;
+export default Note
